@@ -18,4 +18,4 @@ My guide on how I mentor Junior developers. I'm currently a mentor at [Bloc.io](
 ### Contributing
 ================
 
-If you have other topics that you would like to add when mentoring junior developers, please submit a pull request. d
+If you have other topics that you would like to add when mentoring junior developers, please submit a pull request. 
