@@ -7,7 +7,7 @@ My guide on how I mentor Junior developers. I'm currently a mentor at [Bloc.io](
 
 #### First Meeting
 
-#### Git Guide
+#### [Git Guide](https://github.com/wonderwoman13/apprentice/blob/master/git_guide.md)
 
 #### [Offroading](https://github.com/wonderwoman13/apprentice/blob/master/offroading.md)
 
@@ -15,7 +15,7 @@ My guide on how I mentor Junior developers. I'm currently a mentor at [Bloc.io](
 
 #### [Solo Project Requirements](https://github.com/wonderwoman13/apprentice/blob/master/solo_project_requirements.md)
 
-#### Case Study Project
+#### [Case Study Project](https://github.com/wonderwoman13/apprentice/blob/master/case_study_project.md)
 
 ### Contributing
 ================
