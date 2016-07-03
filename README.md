@@ -5,7 +5,7 @@ My guide on how I mentor Junior developers. I'm currently a mentor at [Bloc.io](
 ### Topics
 ===========
 
-#### First Meeting
+#### [First Meeting](https://github.com/wonderwoman13/apprentice/blob/master/first_meeting.md)
 
 #### [Git Guide](https://github.com/wonderwoman13/apprentice/blob/master/git_guide.md)
 
